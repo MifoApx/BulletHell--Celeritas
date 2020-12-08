@@ -15,13 +15,20 @@ Objective
 
 
 Player
- 	Name: Arsene
+Name: Arsene
 Age: 21
 Gender: Male
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/bd68SsJ/player.png" alt="player" border="0"></a>
+
 Spaceship: Celeritas
+
 Strengths: Loves a challenge and cares about his family
 Weakness: Rash
- 	Name: Celeritas(Speed in Latin)
+
+ Name: Celeritas(Speed in Latin)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/80957vt/ship.png" alt="ship" border="0"></a>
+
 Description: The strongest and fastest ship in the universe. It’s pilot is Arsene.
 Max Speed: 1000 times the speed of light
 Controls
@@ -34,8 +41,11 @@ There are 6 waves of enemy. In each of these ways, your player must take out the
 Setting - They are fighting in space, fighting faster than the speed of light. 
 
 Combat System 
+<br/>
+<a href="https://ibb.co/JzHLXLx"><img src="https://i.ibb.co/dQD9n9b/combat.png" alt="combat" border="0"></a>
+
+<a href="https://ibb.co/1ZvWvhB"><img src="https://i.ibb.co/0qDbD81/combat2.png" alt="combat2" border="0"></a>
+
 
   
-
-  
-ene decided he is going to take on this fleet by himself. He will not let even one ship go past him, otherwise it will be the end of earth. With fire in his eyes Arsene, gets on Celeritas and intercepts the invasion.
+Arsene decided he is going to take on this fleet by himself. He will not let even one ship go past him, otherwise it will be the end of earth. With fire in his eyes Arsene, gets on Celeritas and intercepts the invasion.
